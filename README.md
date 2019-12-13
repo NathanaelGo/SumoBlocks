@@ -8,14 +8,18 @@ Outmaneuver or Overpower your way to VICTORY!
 
 
 4 Unique Characters 
+
 Jeff/Charles 
 Basic Sumo Wrestler
+
 
 Speedy
 Fast and Small
 
+
 Fatty
 Bigger Slower and Stronger
+
 
 Lanky
 Longer model 
