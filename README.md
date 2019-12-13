@@ -10,21 +10,21 @@ Outmaneuver or Overpower your way to VICTORY!
 
 4 Unique Characters 
 
-##Jeff/Charles 
+Jeff/Charles 
 
-Basic Sumo Wrestler
-
-
-##Speedy
-
-Fast and Small
+  -Basic Sumo Wrestler
 
 
-##Fatty
+Speedy
 
-Bigger Slower and Stronger
+  -Fast and Small
 
 
-##Lanky
+Fatty
 
-Longer model 
+  -Bigger Slower and Stronger
+
+
+Lanky
+
+  -Longer model 
